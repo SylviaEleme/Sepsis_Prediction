@@ -1,0 +1,9 @@
+#ignore python cache files
+__pycache__/
+*.pyc
+
+#ignore the environment files
+.venv
+*.env
+*cfg
+.git
