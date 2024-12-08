@@ -1,7 +1,7 @@
 # Sepsis-Classification-ML-Project-with-FAST-API-Integration
 This repository houses a machine learning project focused on the early detection and classification of sepsis, and integrating the model into a web application using FAST API.
 
-![image](https://github.com/user-attachments/assets/8fe0f43c-1a60-4b1f-9f18-d73ff39ec2b0)
+
 
 
 This project aims to provide a streamlined tool for healthcare professionals to predict sepsis cases quickly and effectively.
@@ -146,8 +146,4 @@ The application is containerized using Docker, making it easy to package and run
 # Conclusion
 Following the CRISP-DM methodology, I systematically addressed the sepsis prediction problem, from understanding the business context to deploying a machine learning model as a practical tool for early sepsis detection in clinical settings.
 
-# Author
 
-`Frankline Sande`
-
-`Data Analyst`
